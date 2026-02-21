@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[21819,["/timlen-law/_next/static/chunks/19b84da6302bf282.js","/timlen-law/_next/static/chunks/c5b09b7c7ff88a55.js","/timlen-law/_next/static/chunks/9772bc3b68219a7b.js"],"default"]
+3:I[28873,["/timlen-law/_next/static/chunks/19b84da6302bf282.js","/timlen-law/_next/static/chunks/c5b09b7c7ff88a55.js","/timlen-law/_next/static/chunks/9772bc3b68219a7b.js"],"default"]
+0:{"buildId":"X02HJCGYDDnaEm_95MbbW","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
